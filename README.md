@@ -1,4 +1,4 @@
-# 📊 Business Performance Analysis — Power BI Dashboard
+# 📊 Marketing Data Analysis Project | Power BI
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
